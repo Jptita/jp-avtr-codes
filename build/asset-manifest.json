@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jp-avtr-codes/static/css/main.1c978ca0.css",
+    "main.js": "/jp-avtr-codes/static/js/main.cdbfd358.js",
+    "static/media/mercedes-logo.png": "/jp-avtr-codes/static/media/mercedes-logo.8808aaef22b7c5ca93f1.png",
+    "index.html": "/jp-avtr-codes/index.html",
+    "main.1c978ca0.css.map": "/jp-avtr-codes/static/css/main.1c978ca0.css.map",
+    "main.cdbfd358.js.map": "/jp-avtr-codes/static/js/main.cdbfd358.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c978ca0.css",
+    "static/js/main.cdbfd358.js"
+  ]
+}
